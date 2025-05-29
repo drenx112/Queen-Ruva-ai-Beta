@@ -3,7 +3,7 @@ const chalk = require('chalk');
 
 /* ==== SETTINGS ==== */
 global.prefa = [',', '!', '.', '#', '&'];
-global.autoRecording = true; // auto recording
+global.autoRecording = false; // auto recording
 global.autoTyping = true; // auto typing
 global.autorecordtype = true; // auto typing + recording
 global.autoread = false; // auto read messages
@@ -19,7 +19,7 @@ global.blockedCountryCodes = ["+92", "91", "+62"]; // Blocks US & UK numbers
 /* ==== QUEEN RUVA AI BETA CONTROL ==== */
 global.ytname = "YT: https://www.youtube.com/@iconic-tech";
 global.socialm = "GitHub: https://github.com/kineboii";
-global.location = "zimbabwe/Harare";
+global.location = "zimbabwe/Bulawayo";
 global.ownername = "DENBOY";
 global.botname = "ǫᴜᴇᴇɴ ʀᴜᴠᴀ ᴀɪ";
 
