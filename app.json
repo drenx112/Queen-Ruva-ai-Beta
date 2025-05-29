@@ -42,7 +42,7 @@
     },
     "TIMEZONE": {
       "description": "Your timezone (Africa/Harare or Africa/Gweru recommended)",
-      "value": "Africa/Harare",
+      "value": "Africa/Bulawayo",
       "required": false
     },
     "GITHUB_TOKEN": {
