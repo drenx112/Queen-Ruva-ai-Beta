@@ -1,5 +1,5 @@
 {
-  "name": "Queen Ruva AI Beta",
+  "name": "𝐷𝐸ℕ𝐵𝙊𝑌 AI Beta",
   "version": "2.4.0",
   "description": "Queen Ruva AI Beta - The Next-Gen WhatsApp Bot Experience | Powered by Iconic Tech",
   "logo": "https://i.ibb.co/7YFvXzH/queen-ruva-ai-beta.jpg",
@@ -12,17 +12,17 @@
   "env": {
     "BOT_NAME": {
       "description": "Your bot's display name (Queen Ruva AI Beta recommended)",
-      "value": "Queen Ruva AI β",
+      "value": "𝐷𝐸ℕ𝐵𝙊𝑌-MD",
       "required": true
     },
     "OWNER_NUMBER": {
-      "description": "Your WhatsApp number with country code (e.g. 263xxx for Zimbabwe)",
-      "value": "",
+      "description": "263789085533",
+      "value": "true",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Bot owner's name",
-      "value": "Iconic Developer",
+      "value": "DENBOY",
       "required": true
     },
     "STICKER_AUTHOR_NAME": {
