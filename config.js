@@ -10,9 +10,9 @@ global.autoread = false; // auto read messages
 global.autobio = false; // auto update bio
 global.chatbot = false; // Enable text chatbot
 global.emojiReact = false; // Default: enabled
-global.ownernomer = "263789085533";
-global.ownername = "DENBOY";
-global.ownernumber = '263789085533';
+global.ownernomer = "2779674 2970";
+global.ownername = "CYBER DUDE";
+global.ownernumber = '2779674 2970';
 // Add country codes to block (e.g., +1, +91, +44)
 global.blockedCountryCodes = ["+92", "91", "+62"]; // Blocks US & UK numbers
 
@@ -20,7 +20,7 @@ global.blockedCountryCodes = ["+92", "91", "+62"]; // Blocks US & UK numbers
 global.ytname = "YT: https://www.youtube.com/@iconic-tech";
 global.socialm = "GitHub: https://github.com/kineboii";
 global.location = "zimbabwe/Bulawayo";
-global.ownername = "DENBOY";
+global.ownername = "CYBER DUDE";
 global.botname = "ǫᴜᴇᴇɴ ʀᴜᴠᴀ ᴀɪ";
 
 global.packname = "ʀᴏʙᴏᴛɪᴄ";
