@@ -10,9 +10,9 @@ global.autoread = false; // auto read messages
 global.autobio = false; // auto update bio
 global.chatbot = false; // Enable text chatbot
 global.emojiReact = false; // Default: enabled
-global.ownernomer = "2779674 2970";
+global.ownernomer = "27796742970";
 global.ownername = "CYBER DUDE";
-global.ownernumber = '2779674 2970';
+global.ownernumber = '27796742970';
 // Add country codes to block (e.g., +1, +91, +44)
 global.blockedCountryCodes = ["+92", "91", "+62"]; // Blocks US & UK numbers
 
